@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/*"
-  to = "https://4gtvfreepc-cds.cdn.hinet.net/:splat"
+  from = "/*/*/4gtv-live*"
+  to = "https://4gtv-cds.cdn.hinet.net/:splat"
   status = 200
   force = true
