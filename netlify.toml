@@ -1,10 +1,6 @@
 [[redirects]]
-  from = "/live/pool/4gtv-live*"
-  to = "https://4gtv-cds.cdn.hinet.net/live/pool/4gtv-live:splat"
+  from = "/*"
+  to = "https://4gtvpc-cds.cdn.hinet.net/:splat"
   status = 200
   force = true
-[[redirects]]
-  from = "/live/pool/*"
-  to = "https://4gtvpc-cds.cdn.hinet.net/live/pool/:splat"
-  status = 200
-  force = true
+
