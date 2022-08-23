@@ -3,3 +3,8 @@
   to = "https://4gtv-cds.cdn.hinet.net/live/pool/4gtv-live:splat"
   status = 200
   force = true
+[[redirects]]
+  from = "/live/pool/*"
+  to = "https://4gtvpc-cds.cdn.hinet.net/live/pool/:splat"
+  status = 200
+  force = true
