@@ -1,6 +1,6 @@
 [[redirects]]
-  from = "/*"
-  to = "https://4gtvpc-cds.cdn.hinet.net/:splat"
+  from = "/:slug/*"
+  to = "https://4gtvpc-cds.cdn.hinet.net/:slug/:splat"
   status = 200
   force = true
 
