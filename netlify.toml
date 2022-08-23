@@ -1,4 +1,9 @@
 [[redirects]]
+  from = "/4gtvchannel.xml"
+  to = "https://agit.ai/239144498/demo/raw/branch/master/4gtvchannel.xml"
+  status = 200
+  force = true
+[[redirects]]
   from = "/:slug1/:slug2/4gtv-live*"
   to = "https://4gtv-cds.cdn.hinet.net/:slug1/:slug2/4gtv-live:splat"
   status = 200
